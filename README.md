@@ -23,7 +23,7 @@ This project analyzes student academic performance using Microsoft Excel.
 - Subjects: English, ICT, Maths, Science
 
 ## Dashboard Preview
-Dashboard.png
+![Screenshot 1](Dashboard.PNG)
 
 ## Key Insights
 - Average Score: 74%
